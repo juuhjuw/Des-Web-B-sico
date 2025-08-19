@@ -1,0 +1,22 @@
+/* Comentário em CSS
+Seletor de elementos - linha 4 */
+
+h1{
+    color: navy;
+}
+
+#xuxa {
+background-color: gray;
+}
+
+/* Seletor de classe */
+
+.estiloso {
+    border-style: solid;
+}
+
+/* Afeta apenas os p da classe centraliza*/
+
+p.centraliza{
+    text-align: center;
+}
